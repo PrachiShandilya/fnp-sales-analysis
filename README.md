@@ -44,7 +44,7 @@ The dashboard includes:
 ## How to Use
 
 1. Download or clone this repository.
-2. Open the Excel file: fnp_sales.xlsx(fnp_sales.xlsx).
+2. Open the Excel file: `fnp_sales.xlsx`.
 3. Use the filters (slicers) on the right-hand side to explore data by:
    - Date Range
    - Delivery Year
