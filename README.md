@@ -1,8 +1,15 @@
-# FNP Sales Analysis Dashboard
-
-This Excel dashboard presents a detailed analysis of sales data for FNP (Ferns N Petals), focusing on customer behavior, order trends, and product/category performance.
+# FNP Sales Analysis 
+This project analyzes sales data from Ferns N Petals (FNP) to uncover trends, customer behavior, and occasion-based revenue patterns. It helps identify the best-performing months, products, and occasions, providing actionable business insights.
 
 ---
+
+## Dashboard Preview
+![Dashboard Screenshort](./images/fnp-dashboard.png)
+
+## Dataset Information
+- ['orders.csv'](./dataset/orders.csv)
+- [products.csv](./dataset/products.csv)
+- ['customers.csv'](./dataset/customers.csv)
 
 ## Dashboard Highlights
 
