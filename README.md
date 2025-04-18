@@ -9,8 +9,7 @@ This project analyzes sales data from Ferns N Petals (FNP) to uncover trends, cu
 ## Dataset Information
 - ['orders.csv'](./dataset/orders.csv): Contains order-level data including Order Date, Occasion, City, Category, Product Name, and Revenue.
 - ['products.csv'](./dataset/products.csv): Includes product-level details such as Product ID, Name, Category, and Price.
-- ['customers.csv'](./dataset/customers.csv): Contains customer-related information such as Customer ID, Gender, and City.
-- 
+- ['customers.csv'](./dataset/customers.csv): Contains customer-related information such as Customer ID, Gender, and City. 
 
 ## Dashboard Highlights
 
