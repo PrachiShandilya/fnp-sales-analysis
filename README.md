@@ -4,7 +4,7 @@ This project analyzes sales data from Ferns N Petals (FNP) to uncover trends, cu
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshort](./images/fnp-dashboard.png)
+![Dashboard Screenshort](./images/fnp_sales_dashboard.png)
 
 ## Dataset Information
 - ['orders.csv'](./dataset/orders.csv): Contains order-level data including Order Date, Occasion, City, Category, Product Name, and Revenue.
