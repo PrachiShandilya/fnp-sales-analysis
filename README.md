@@ -1,4 +1,4 @@
-# FNP Sales Analysis 
+# FNP Sales Analysis Dashboard
 This project analyzes sales data from Ferns N Petals (FNP) to uncover trends, customer behavior, and occasion-based revenue patterns. It helps identify the best-performing months, products, and occasions, providing actionable business insights.
 
 ---
@@ -18,7 +18,7 @@ The dashboard includes:
 - **KPI Cards**:
    - Total Orders
    - Total Revenue
-   - Average Order-Delivery Time Gap
+   - Average Order-to-Delivery Time
    - Average Customer Spend
 
 - **Key Visualizations**:
@@ -43,9 +43,9 @@ The dashboard includes:
 ## How to Use
 
 1. Download or clone this repository.
-2. Open the Excel file: `[fnp_sales.xlsx](https://github.com/PrachiShandilya/fnp-sales-analysis/blob/main/fnp_sales.xlsx)`.
+2. Open the Excel file: [`fnp_sales.xlsx`](https://github.com/PrachiShandilya/fnp-sales-analysis/blob/main/fnp_sales.xlsx).
 3. Use the filters (slicers) on the right-hand side to explore data by:
-   - Date Range
-   - Delivery Year
+   - Order Date
+   - Delivery Date
    - Occasion
 
